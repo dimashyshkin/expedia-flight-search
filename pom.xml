@@ -71,7 +71,7 @@
 				<version>2.22.0</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/TestSuites/testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/test/resources/TestSuites/PriceCheck.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
