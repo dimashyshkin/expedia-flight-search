@@ -1,0 +1,11 @@
+No,departure,destination,departureMin,departureMax,lengthofstayMin,lengthofstayMax,maxPrice,nonStop
+1,Tampa,Kyiv,08/20/2021,09/10/2021,21,35,2000,false
+,,,,,,,
+1,New York,Los Angeles,01/27/2021,01/27/2021,1,1,200,true
+1,JFK,LAX,01/27/2021,01/27/2021,1,2,250,false
+"",,,
+1,Tampa,Salt Lake City,01/27/2021,01/29/2021,1,2,350,true
+"",,,
+1,Tampa,Denver,01/27/2021,01/29/2021,1,2,250,true
+"",,,
+1,Kiev,Tampa,01/27/2021,02/28/2021,10,20,1500,false
